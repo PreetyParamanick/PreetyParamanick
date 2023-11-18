@@ -6,7 +6,7 @@
 <img align="right" alt="Data_Analytics" width="400px" src="https://miro.medium.com/v2/resize:fit:679/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 
 # 💫 About Me:
-🔭 I’m currently An Fresher<br>🤝 I’m looking for Business Analytics, Data Analytics role<br>🌱 I’m currently learning Python, Machine Learning<br>💬 Ask me about Excel, SQL, Power Bi<br>⚡ Fun fact: I'm an Ambivert
+🔭 I’m currently a Fresher<br>🤝 I’m looking for Business Analytics, Data Analytics role<br>🌱 I’m currently learning Python, Machine Learning<br>💬 Ask me about Excel, SQL, Power Bi<br>⚡ Fun fact: I'm an Ambivert
   
 
 
