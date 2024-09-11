@@ -1,6 +1,6 @@
 <img align="center" alt="Data_Analytics" width="1000px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <h1 align="center">Hi 👋, I'm Preety Paramanick</h1>
-<h3 align="center">A passionate Data Analytics from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetyparamanick&label=Profile%20views&color=0e75b6&style=flat" alt="preetyparamanick" /> </p>
 
 <img align="right" alt="Data_Analytics" width="400px" src="https://miro.medium.com/v2/resize:fit:679/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
